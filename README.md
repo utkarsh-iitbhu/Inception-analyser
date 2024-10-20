@@ -47,7 +47,7 @@ You will need to process the data first. The `process_data.py` script processes 
 To run data processing:
 
 ```bash
-python process_data.py
+python data-processing.py
 ```
 
 This will:
