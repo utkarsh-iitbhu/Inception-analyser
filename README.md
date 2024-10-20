@@ -29,8 +29,7 @@ This project implements a hate speech detection system using a pre-trained langu
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/utkarsh-iitbhu/Inception-analyser.git
 ```
 
 ### 2. Install the Required Packages
